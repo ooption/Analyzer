@@ -1,11 +1,8 @@
 /*
 * Analyzer
-*
 * @Version 0.1
-*
 * @p.karnaukhov
 */
-
 
 import java.util.ArrayList;
 
