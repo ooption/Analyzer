@@ -8,7 +8,7 @@ public class TestAnalyzer {
 		
 		for(Cluster aa : test.clusters) {	
 			System.out.println("Minimum found " + aa.minimum + ", cluster from " 
-								+ aa.clusterstart + " to " + aa.clusterend);
+						+ aa.clusterstart + " to " + aa.clusterend);
 		}
 	}
 }
