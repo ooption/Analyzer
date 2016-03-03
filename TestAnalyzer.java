@@ -8,7 +8,7 @@ public class TestAnalyzer {
 		
 		for(Cluster aa : test.clusters) {	
 			System.out.println("Cluster " + aa.clusterstart + "-" + aa.clusterend 
-								+ ", fuzziness: " + aa.minimum + ".");
+							+ ", fuzziness: " + aa.minimum + ".");
 		}
 	}
 }
