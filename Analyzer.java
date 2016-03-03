@@ -79,14 +79,7 @@ public class Analyzer {
 					
 				result = new String(clusters.size() + " cluster/s was found.");			
 			}	
-			
-	
-	
 	return result; 
 	}
-
- 
-	
-	
 }
 
